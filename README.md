@@ -1,4 +1,4 @@
-# Simple-linmear-regression
+# Simple-linear-regression
 
 Salary Data
 
